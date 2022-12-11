@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emerald-lakers/static/css/main.193f1e64.css",
+    "main.js": "/emerald-lakers/static/js/main.db33a4e8.js",
+    "static/media/player1.png": "/emerald-lakers/static/media/player1.de556678664ce72d3f18.png",
+    "static/media/basketballplayer.png": "/emerald-lakers/static/media/basketballplayer.9d213acc38fb8ea3e08e.png",
+    "static/media/basketballhoop.jpeg": "/emerald-lakers/static/media/basketballhoop.b27d190c93faad658ab4.jpeg",
+    "index.html": "/emerald-lakers/index.html",
+    "main.193f1e64.css.map": "/emerald-lakers/static/css/main.193f1e64.css.map",
+    "main.db33a4e8.js.map": "/emerald-lakers/static/js/main.db33a4e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.193f1e64.css",
+    "static/js/main.db33a4e8.js"
+  ]
+}
