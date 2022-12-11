@@ -1,7 +1,6 @@
 import React from 'react';
 import styles from './ImageSlider.module.css';
 import Card from './Card';
-import 'reactjs-popup/dist/index.css';
 
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
