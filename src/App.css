@@ -1,0 +1,10 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+};
